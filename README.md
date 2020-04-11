@@ -1,34 +1,15 @@
-# Reaction Identity
+# Reaction Identity Revitalized
 
-[![Circle CI](https://circleci.com/gh/reactioncommerce/reaction-identity.svg?style=svg)](https://circleci.com/gh/reactioncommerce/reaction-identity) [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/reactioncommerce/reaction?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[Reaction](http://reactioncommerce.com) is an API-first, headless commerce platform built using Node.js, React, and GraphQL.
-It plays nicely with npm, Docker and Kubernetes.
+it a initial version for reaction-identity without Meteor.
 
-This project, Reaction Identity, is the user interface and server for identity management, including user registration, login, logout, and password change.
-It works together with [reaction-hydra](https://github.com/reactioncommerce/reaction-hydra) to enable OAuth2 flows.
+forked from  Great!! [reaction-identity](https://github.com/reactioncommerce/reaction-identity)
 
 # Getting started
 
 Follow the documentation to install Reaction with [Reaction Platform](https://docs.reactioncommerce.com/docs/installation-reaction-platform) for all supported operating systems.
 
 # Get involved
-
-## Tutorials, docs & developer tools
-
-- [Developer documentation](https://docs.reactioncommerce.com)
-- [Docs: Introduction to Reaction:  Concepts](https://docs.reactioncommerce.com/docs/concepts-intro)
-- [Swag Shop Tutorial](https://docs.reactioncommerce.com/docs/swag-shop-1)
-- [Storefront UI Development Tutorial](https://docs.reactioncommerce.com/docs/storefront-intro)
-- [Storefront Component Library](http://designsystem.reactioncommerce.com/)
-- [API documentation](http://api.docs.reactioncommerce.com)
-- [Engineering blog posts](https://blog.reactioncommerce.com/tag/engineering/)
-
-## Get help & contact the team
-
-- [Gitter chat](https://gitter.im/reactioncommerce/reaction)
-- Report security vulnerabilities to <mailto:security@reactioncommerce.com>: [Security reporting instructions](https://docs.reactioncommerce.com/reaction-docs/trunk/reporting-vulnerabilities)
-- Request features in this [repository](https://github.com/reactioncommerce/reaction-feature-requests/)
 
 ## Contribute
 
@@ -58,21 +39,6 @@ We also request that you follow the our [pull request template](https://docs.rea
 
 Get more details in our [Contributing Guide](https://docs.reactioncommerce.com/docs/contributing-to-reaction).
 
-### Developer Certificate of Origin
-We use the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) in lieu of a Contributor License Agreement for all contributions to Reaction Commerce open source projects.
-We request that contributors agree to the terms of the DCO and indicate that agreement by signing-off all commits made to Reaction Commerce projects by adding a line with your name and email address to every Git commit message contributed:
-```
-Signed-off-by: Jane Doe <jane.doe@example.com>
-```
-
-You can sign-off your commit automatically with Git by using `git commit -s` if you have your `user.name` and `user.email` set as part of your Git configuration.
-
-We ask that you use your real full name (please no anonymous contributions or pseudonyms) and a real email address.
-By signing-off your commit you are certifying that you have the right to submit it under the [Apache 2.0 License](./LICENSE).
-
-We use the [Probot DCO GitHub app](https://github.com/apps/dco) to check for DCO sign-offs of every commit.
-
-If you forget to sign-off your commits, the DCO bot will remind you and give you detailed instructions for how to amend your commits to add a signature.
 
 ### License
 Reaction Identity is [Apache 2.0 Licensed](./LICENSE)
